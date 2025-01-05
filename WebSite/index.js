@@ -1,2 +1,2 @@
-alert("MSG...")
-alert("MSG2...")
+alert("MSG...");
+alert("MSG2...");
